@@ -12,11 +12,8 @@ The model is trained on a dataset of facial images sourced from various sources.
 
 Usage
 Data Preprocessing: Before training the model, ensure that your dataset is properly preprocessed. This includes tasks such as resizing images, normalizing pixel values, and splitting the dataset into training and testing sets.
-
 Model Training: Train the deep learning model using the provided dataset. Fine-tune the model architecture and hyperparameters to achieve optimal performance.
-
 Model Evaluation: Evaluate the trained model on a separate test dataset to assess its accuracy and performance. Analyze metrics such as accuracy, mean absolute error (MAE), and loss to gauge the model's effectiveness.
-
 Prediction: Use the trained model to make predictions on new facial images. Provide input images to the model and obtain predictions for age and gender.
 
 Dependencies
