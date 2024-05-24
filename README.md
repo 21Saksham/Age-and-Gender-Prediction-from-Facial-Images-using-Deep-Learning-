@@ -1,14 +1,14 @@
 # Age-and-Gender-Prediction-from-Facial-Images-using-Deep-Learning-
 Age and Gender Prediction from Facial Images
-Overview
+Overview-
 This project aims to develop a deep learning model capable of predicting the age and gender of individuals from facial images. Leveraging state-of-the-art convolutional neural networks (CNNs) and image processing techniques, the model learns to analyze facial features and make accurate predictions.
 
-Features
+Features-
 Predicts age and gender from facial images
 Uses a CNN architecture for feature extraction and classification
 Trained on a diverse dataset covering a wide range of ages and genders
 Provides reliable predictions in real-time
-Datasetborn
+Dataset-
 The model is trained on a dataset of facial images sourced from various sources. The dataset includes images spanning different age groups and genders to ensure robustness and generalization.
 
 Usage
@@ -20,7 +20,7 @@ Model Evaluation: Evaluate the trained model on a separate test dataset to asses
 
 Prediction: Use the trained model to make predictions on new facial images. Provide input images to the model and obtain predictions for age and gender.
 
-Dependencies
+Dependencies-
 TensorFlow
 NumPy
 Matplotlib
