@@ -17,8 +17,8 @@ Model Evaluation: Evaluate the trained model on a separate test dataset to asses
 Prediction: Use the trained model to make predictions on new facial images. Provide input images to the model and obtain predictions for age and gender.
 
 Dependencies
-TensorFlow
-NumPy
-Matplotlib
-scikit-learn
+TensorFlow,
+NumPy,
+Matplotlib,
+scikit-learn,
 Seaborn
